@@ -26,10 +26,14 @@ Now it's time to open and run this project from Unity.
 
 Enjoy!!!
 
+## Known issues
+
+When the ball reaches any of the walls, the camera trembles and in the north and south walls you have to click on up/down cursor keys to get away from the wall.
+
 ## Built With
 
 * [Unity](https://unity3d.com/es/get-unity/download) - Link to download Unity.
 
-## Acknowledgments
+## Acknowledgements
 
 * https://learn.unity.com/project/roll-a-ball. A very good example to start with Unity.
